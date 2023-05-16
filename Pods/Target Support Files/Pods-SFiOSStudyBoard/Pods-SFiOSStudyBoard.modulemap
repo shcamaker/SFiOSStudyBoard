@@ -1,0 +1,6 @@
+framework module Pods_SFiOSStudyBoard {
+  umbrella header "Pods-SFiOSStudyBoard-umbrella.h"
+
+  export *
+  module * { export * }
+}
